@@ -6,6 +6,7 @@
 ## C++ 
 - [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 - [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
+- [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
 ## Java
 - [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/)
 - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
