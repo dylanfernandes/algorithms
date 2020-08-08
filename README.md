@@ -3,6 +3,8 @@
 - [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)
 - [Same Tree](https://leetcode.com/problems/same-tree/description/)
 - [Baseball Game](https://leetcode.com/problems/baseball-game/description/) **Fastest solution in Python 3 at submission time**
+## C++ 
+- [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 ## Java
 - [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/)
 - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
