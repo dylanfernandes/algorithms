@@ -9,6 +9,7 @@
 - [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
 - [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) **Fastest solution in C++ at submission time**
 - [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
+- [Shuffle String](https://leetcode.com/problems/shuffle-string/)
 ## Java
 - [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/)
 - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
