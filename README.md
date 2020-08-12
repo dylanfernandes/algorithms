@@ -1,4 +1,6 @@
-# Algorithms in Repository
+# Algorithms for Programming Problems
+This is a repository with my solutions to programming problems I solved on leetcode and hackerrank. Below is the list of solved problems with a link to the problem description. The solution to a problem can be found in the file within the project that matches the problem name.
+
 ## Python
 - [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)
 - [Same Tree](https://leetcode.com/problems/same-tree/description/)
