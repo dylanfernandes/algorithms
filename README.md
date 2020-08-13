@@ -14,6 +14,7 @@ This is a repository with my solutions to programming problems I solved on leetc
 - [Shuffle String](https://leetcode.com/problems/shuffle-string/)
 - [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) **Fastest solution in C++ at submission time**
 - [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)
+- [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) **Fastest solution in C++ at submission time**
 ## Java
 - [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/)
 - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
