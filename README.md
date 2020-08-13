@@ -13,6 +13,7 @@ This is a repository with my solutions to programming problems I solved on leetc
 - [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
 - [Shuffle String](https://leetcode.com/problems/shuffle-string/)
 - [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) **Fastest solution in C++ at submission time**
+- [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)
 ## Java
 - [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/)
 - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
