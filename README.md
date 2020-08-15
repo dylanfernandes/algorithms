@@ -17,6 +17,7 @@ This is a repository with my solutions to programming problems I solved on leetc
 - [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) **Fastest solution in C++ at submission time**
 - [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) **Fastest solution in C++ at submission time**
 - [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
+- [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) **Fastest solution in C++ at submission time**
 ## Java
 - [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/)
 - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
