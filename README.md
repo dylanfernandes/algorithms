@@ -20,6 +20,7 @@ This is a repository with my solutions to programming problems I solved on leetc
 - [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) **Fastest solution in C++ at submission time**
 - [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) **Fastest solution in C++ at submission time**
 - [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)
+- [Destination City](https://leetcode.com/problems/destination-city/)
 ## Java
 - [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/)
 - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
