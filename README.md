@@ -21,6 +21,8 @@ This is a repository with my solutions to programming problems I solved on leetc
 - [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) **Fastest solution in C++ at submission time**
 - [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)
 - [Destination City](https://leetcode.com/problems/destination-city/)
+- [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) **Fastest solution in C++ at submission time**
+
 ## Java
 - [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/)
 - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
