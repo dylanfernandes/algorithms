@@ -22,6 +22,7 @@ This is a repository with my solutions to programming problems I solved on leetc
 - [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)
 - [Destination City](https://leetcode.com/problems/destination-city/)
 - [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) **Fastest solution in C++ at submission time**
+- [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
 
 ## Java
 - [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/)
