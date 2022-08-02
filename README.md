@@ -32,4 +32,5 @@ This is a repository with my solutions to programming problems I solved on leetc
 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)
 - [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/description/)
 - [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)
+- [Ransom Note](https://leetcode.com/problems/ransom-note/)
 
