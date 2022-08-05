@@ -34,4 +34,5 @@ This is a repository with my solutions to programming problems I solved on leetc
 - [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)
 - [Ransom Note](https://leetcode.com/problems/ransom-note/)
 - [Two Sum](https://leetcode.com/problems/two-sum/)
+- [Breaking Best and Worst Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/)
 
