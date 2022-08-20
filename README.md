@@ -5,6 +5,7 @@ This is a repository with my solutions to programming problems I solved on leetc
 - [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)
 - [Same Tree](https://leetcode.com/problems/same-tree/description/)
 - [Baseball Game](https://leetcode.com/problems/baseball-game/description/) **Fastest solution in Python 3 at submission time**
+
 ## C++ 
 - [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 - [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
@@ -24,6 +25,7 @@ This is a repository with my solutions to programming problems I solved on leetc
 - [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) **Fastest solution in C++ at submission time**
 - [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
 - [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)
+- [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/)
 
 ## Java
 - [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/)
