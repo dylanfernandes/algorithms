@@ -41,3 +41,4 @@ This is a repository with my solutions to programming problems I solved on leetc
 - [Bon Appetit](https://www.hackerrank.com/challenges/bon-appetit/)
 - [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/)
 - [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/)
+- [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
