@@ -43,3 +43,4 @@ This is a repository with my solutions to programming problems I solved on leetc
 - [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/)
 - [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+- [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
