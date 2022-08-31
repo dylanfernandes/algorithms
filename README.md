@@ -45,3 +45,4 @@ This is a repository with my solutions to programming problems I solved on leetc
 - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [Cats And A Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/)
+- [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/)
