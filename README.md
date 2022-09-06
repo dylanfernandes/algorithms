@@ -47,3 +47,4 @@ This is a repository with my solutions to programming problems I solved on leetc
 - [Cats And A Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/)
 - [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/)
 - [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/)
+- [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/)
