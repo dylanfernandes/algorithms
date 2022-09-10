@@ -51,3 +51,4 @@ This is a repository with my solutions to programming problems I solved on leetc
 
 ## C#
 - [Strange Advertising](https://www.hackerrank.com/challenges/strange-advertising/)
+- [Two Sum](https://leetcode.com/problems/two-sum/)
