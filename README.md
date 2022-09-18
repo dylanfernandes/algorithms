@@ -48,6 +48,7 @@ This is a repository with my solutions to programming problems I solved on leetc
 - [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/)
 - [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/)
 - [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/)
+- [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/)
 
 ## C#
 - [Strange Advertising](https://www.hackerrank.com/challenges/strange-advertising/)
